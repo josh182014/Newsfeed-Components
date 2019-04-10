@@ -1,5 +1,6 @@
 
 const toggleMenu = (event) => {
+  //OOPS I DIDN'T KNOW 'TOGGLE' EXISITED SO I IMPROVISED 
   // Toggle the "menu--open" class on your menu refence. 
   // if (menu.style["display"] === "block") {
   //   menu.style["display"] = "none";
